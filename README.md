@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Rodrigo Rockenbach👋
 
-- 🌱Estudando React
+- 🌱Estudando Python
 
 <div align="center">
   <a href="https://github.com/RodrigosRockenbach">
